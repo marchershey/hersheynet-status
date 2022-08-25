@@ -34,13 +34,20 @@ assignees:
   - marchershey
   
 workflowSchedule:
-  graphs: "0 * * * *" # every hour
-  responseTime: "0 * * * *" # every hour
-  staticSite: "0 * * * *" # every hour
-  summary: "0 0 * * *"
-  updateTemplate: "0 0 */3 * *" # every 3 days
-  updates: "0 1 * * *" # every day
-  uptime: "*/5 * * * *" # every 5 mins
+  # init setup (runs everything) - runs daily at 03:00
+  updates: "0 3 * * *"
+  # update upptime - runs weekly on Sunday
+  updateTemplate: "0 0 * * 0"
+  # deploy status page - runs weekly on Sunday
+  staticSite: "0 0 * * 0"
+  # update README - runs hourly on min 2
+  summary: "2 * * * *"
+  # update graphs - runs hourly on min 1
+  graphs: "1 * * * *"
+  # log response time - runs hourly on min 0
+  responseTime: "0 * * * *"
+  # pings endpoints - runs every 5 mins
+  uptime: "*/5 * * * *"
 
 # every 5 mins: "*/5 * * * *"
 # every hour: "0 * * * *"

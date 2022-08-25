@@ -7,9 +7,13 @@ sites:
   - name: Web Server
     url: https://web.hershey.co
   - name: NS1 (ns1.hershey.co)
+    check: "tcp-ping"
     url: http://ns1.hershey.co
+    port: 53
   - name: NS2 (ns2.hershey.co)
+    check: "tcp-ping"
     url: http://ns2.hershey.co
+    port: 53
 
 status-website:
   cname: status.hershey.co

@@ -20,7 +20,7 @@ sites:
 status-website:
   cname: status.hershey.co
   # baseUrl: /your-repo-name
-  # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: HersheyNET
   introTitle: "This is the title"
   introMessage: This is the subtitle.

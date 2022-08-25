@@ -32,6 +32,15 @@ status-website:
 
 assignees:
   - marchershey
+  
+workflowSchedule:
+  graphs: "*/5 * * * *"
+  responseTime: "*/5 * * * *"
+  staticSite: "*/5 * * * *"
+  summary: "*/5 * * * *"
+  updateTemplate: "*/5 * * * *"
+  updates: "*/5 * * * *"
+  uptime: "*/5 * * * *"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

@@ -3,7 +3,7 @@ repo: hersheynet-status
 
 sites:
   - name: Production Server
-    url: https://prod.hershey.co
+    url: 45.32.212.135
   - name: Web Server
     url: https://web.hershey.co
   - name: NS1 (ns1.hershey.co)

@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/prod.hershey.co",
     "slug": "production-server",
     "status": "down",
-    "uptime": "3.22%",
-    "uptimeDay": "3.22%",
-    "uptimeWeek": "3.22%",
-    "uptimeMonth": "3.22%",
-    "uptimeYear": "3.22%",
+    "uptime": "0.12%",
+    "uptimeDay": "0.12%",
+    "uptimeWeek": "0.12%",
+    "uptimeMonth": "0.12%",
+    "uptimeYear": "0.12%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-25": 0
+      "2022-08-25": 13
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://web.hershey.co",
     "icon": "https://favicons.githubusercontent.com/web.hershey.co",
     "slug": "web-server",
-    "status": "down",
-    "uptime": "6.55%",
-    "uptimeDay": "6.55%",
-    "uptimeWeek": "6.55%",
-    "uptimeMonth": "6.55%",
-    "uptimeYear": "6.55%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.69%",
+    "uptimeDay": "0.69%",
+    "uptimeWeek": "0.69%",
+    "uptimeMonth": "0.69%",
+    "uptimeYear": "0.69%",
+    "time": 1290,
+    "timeDay": 1290,
+    "timeWeek": 1290,
+    "timeMonth": 1290,
+    "timeYear": 1290,
     "dailyMinutesDown": {
-      "2022-08-25": 0
+      "2022-08-25": 13
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "https://ns2.hershey.co",
     "icon": "https://favicons.githubusercontent.com/ns2.hershey.co",
     "slug": "ns-2-ns2-hershey-co",
-    "status": "down",
-    "uptime": "5.81%",
-    "uptimeDay": "5.81%",
-    "uptimeWeek": "5.81%",
-    "uptimeMonth": "5.81%",
-    "uptimeYear": "5.81%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.59%",
+    "uptimeDay": "0.59%",
+    "uptimeWeek": "0.59%",
+    "uptimeMonth": "0.59%",
+    "uptimeYear": "0.59%",
+    "time": 262,
+    "timeDay": 262,
+    "timeWeek": 262,
+    "timeMonth": 262,
+    "timeYear": 262,
     "dailyMinutesDown": {
-      "2022-08-25": 0
+      "2022-08-25": 13
     }
   }
 ]

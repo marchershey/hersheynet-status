@@ -7,14 +7,14 @@ sites:
   - name: Web Server
     url: https://web.hershey.co
   - name: NS1 (ns1.hershey.co)
-    url: https://ns1.hershey.co
+    url: http://ns1.hershey.co
   - name: NS2 (ns2.hershey.co)
-    url: https://ns2.hershey.co
+    url: http://ns2.hershey.co
 
 status-website:
   cname: status.hershey.co
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: HersheyNET
   introTitle: "This is the title"
   introMessage: This is the subtitle.

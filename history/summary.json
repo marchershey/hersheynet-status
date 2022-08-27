@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "production-server",
     "status": "up",
-    "uptime": "98.48%",
+    "uptime": "98.51%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.48%",
-    "uptimeMonth": "98.48%",
-    "uptimeYear": "98.48%",
-    "time": 107,
+    "uptimeWeek": "98.51%",
+    "uptimeMonth": "98.51%",
+    "uptimeYear": "98.51%",
+    "time": 106,
     "timeDay": 120,
-    "timeWeek": 107,
-    "timeMonth": 107,
-    "timeYear": 107,
+    "timeWeek": 106,
+    "timeMonth": 106,
+    "timeYear": 106,
     "dailyMinutesDown": {
       "2022-08-25": 49
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 186,
-    "timeDay": 182,
-    "timeWeek": 186,
-    "timeMonth": 186,
-    "timeYear": 186,
+    "time": 185,
+    "timeDay": 180,
+    "timeWeek": 185,
+    "timeMonth": 185,
+    "timeYear": 185,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 555,
-    "timeDay": 567,
-    "timeWeek": 555,
-    "timeMonth": 555,
-    "timeYear": 555,
+    "time": 557,
+    "timeDay": 571,
+    "timeWeek": 557,
+    "timeMonth": 557,
+    "timeYear": 557,
     "dailyMinutesDown": {}
   }
 ]

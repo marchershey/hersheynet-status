@@ -33,20 +33,28 @@ status-website:
 assignees:
   - marchershey
   
+#workflowSchedule:
+#  # init setup (runs everything) - runs daily at 03:00
+#  updates: "0 3 * * *"
+#  # update upptime - runs weekly on Sunday
+#  updateTemplate: "0 0 * * 0"
+#  # deploy status page - runs weekly on Sunday
+#  staticSite: "0 0 * * 0"
+#  # update README - runs hourly on min 2
+#  summary: "2 * * * *"
+#  # update graphs - runs hourly on min 1
+#  graphs: "1 * * * *"
+#  # log response time - runs hourly on min 0
+#  responseTime: "0 * * * *"
+#  # pings endpoints - runs every 5 mins
+#  uptime: "*/5 * * * *"
 workflowSchedule:
-  # init setup (runs everything) - runs daily at 03:00
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
-  # update upptime - runs weekly on Sunday
-  updateTemplate: "0 0 * * 0"
-  # deploy status page - runs weekly on Sunday
-  staticSite: "0 0 * * 0"
-  # update README - runs hourly on min 2
-  summary: "2 * * * *"
-  # update graphs - runs hourly on min 1
-  graphs: "1 * * * *"
-  # log response time - runs hourly on min 0
-  responseTime: "0 * * * *"
-  # pings endpoints - runs every 5 mins
   uptime: "*/5 * * * *"
 
 # every 5 mins: "*/5 * * * *"
